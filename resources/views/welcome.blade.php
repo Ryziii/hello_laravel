@@ -79,8 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    I Love You!!!
-                      劳颖榆！
+                    I Love You!!!<br>劳颖榆！
                 </div>
 
                 <!--<div class="links">
