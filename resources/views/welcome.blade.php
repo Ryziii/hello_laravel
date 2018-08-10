@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Hi！Laravel--by Ryziii
+                    I Love You 劳颖榆！
                 </div>
 
                 <div class="links">
